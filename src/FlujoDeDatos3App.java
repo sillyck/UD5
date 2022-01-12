@@ -1,3 +1,6 @@
+/**
+ * @author Jordi Ribellas Ramos
+ */
 import javax.swing.JOptionPane;
 public class FlujoDeDatos3App {
 

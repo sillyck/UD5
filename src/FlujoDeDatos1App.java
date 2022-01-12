@@ -1,4 +1,6 @@
-
+/**
+ * @author Jordi Ribellas Ramos
+ */
 public class FlujoDeDatos1App {
 
 	public static void main(String[] args) {

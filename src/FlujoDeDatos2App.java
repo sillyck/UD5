@@ -1,3 +1,6 @@
+/**
+ * @author Jordi Ribellas Ramos
+ */
 import javax.swing.*;
 public class FlujoDeDatos2App {
 
