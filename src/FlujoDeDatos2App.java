@@ -8,7 +8,7 @@ public class FlujoDeDatos2App {
 		
 		String nombre = "Jordi";
 		
-		JOptionPane.showMessageDialog(null, "Tu nombre es " + nombre);
+		JOptionPane.showMessageDialog(null, "Bienvenido " + nombre);
 
 	}
 

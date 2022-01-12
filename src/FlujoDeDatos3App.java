@@ -8,7 +8,7 @@ public class FlujoDeDatos3App {
 		
 		String nombre = JOptionPane.showInputDialog("Introduce tu nombre");
 		
-		JOptionPane.showMessageDialog(null, "Tu nombre es " + nombre);
+		JOptionPane.showMessageDialog(null, "Bienvenido " + nombre);
 
 	}
 
