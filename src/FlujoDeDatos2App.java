@@ -3,7 +3,7 @@ public class FlujoDeDatos2App {
 
 	public static void main(String[] args) {
 		
-		String nombre = JOptionPane.showInputDialog("Introduce tu nombre");
+		String nombre = "Jordi";
 		
 		JOptionPane.showMessageDialog(null, "Tu nombre es " + nombre);
 
